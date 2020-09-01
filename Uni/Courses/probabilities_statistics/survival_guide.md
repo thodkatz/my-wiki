@@ -56,7 +56,7 @@ In order to mitigate this, I will edit, merge and do stuff with the uploaded mat
 - Το βιβλίο του Πανά για το στοχαστικό, έχει επίσης κάποια θέματα πιθανοτήτων.
 - Το βιβλίου του Ζιούτα. Είναι ίσως αρκετά κουλ.
 - Ο κούγιου, υπάρχει και στο τημμυ, έχει κατι λυμένα θέματα απο πολιτικούς. Αξίζει να το δεις, είναι αρκετά καλλογραμμένα.
-- Το υπεργαμάτο [reference stanford](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view). Introduction to probability, Blitzstein Hwang Probability.
+- Το υπεργαμάτο [reference stanford](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view). Introduction to probability, Blitzstein Hwang Probability. There is also an official [webiste](https://projects.iq.harvard.edu/stat110/strategic-practice-problems) with solutions and problems.
 
 ### **Statistics**
 
