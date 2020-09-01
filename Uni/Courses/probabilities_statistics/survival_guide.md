@@ -3,12 +3,13 @@
 - [Exams September 2020](#exams-september-2020)
   - [Cons](#cons)
   - [Technical details of the exam](#technical-details-of-the-exam)
-  - [Survival guide for the next exam](#survival-guide-for-the-next-exam)
-    - [**Probabilities**](#probabilities)
-    - [**Statistics**](#statistics)
-  - [Technical notes](#technical-notes)
+- [Survival guide for the next exam](#survival-guide-for-the-next-exam)
+  - [**Probabilities**](#probabilities)
+  - [**Statistics**](#statistics)
   - [Online tools that you can use](#online-tools-that-you-can-use)
-  - [Lessons learned](#lessons-learned)
+- [Technical notes](#technical-notes)
+- [Lessons learned](#lessons-learned)
+- [TODO](#todo)
 
 <!-- /TOC -->
 
@@ -35,21 +36,21 @@ In order to mitigate this, I will edit, merge and do stuff with the uploaded mat
 
 ## Technical details of the exam
 
-- Στο πρώτο κουίζ έπρεπε να σχηματίσεις τα γεγονότα κατάλληλα και με θεώρημα DeMorgan να υπολογίσεις την συμπληρωματική πιθανότητα. Ένα αρκετά συνηθισμένο tip είναι  όταν λέει τουλάχιστον, να χρησιμοποιείς συμπληρωματικά ενδεχόμενα!
+- Στο πρώτο κουίζ έπρεπε να σχηματίσεις τα γεγονότα κατάλληλα και με θεώρημα DeMorgan να υπολογίσεις την συμπληρωματική πιθανότητα. Ένα αρκετά συνηθισμένο tip είναι  όταν λέει τουλάχιστον, να χρησιμοποιείς συμπληρωματικά ενδεχόμενα! Η πατάτα που έκανα ήταν στον υπολογισμό της υπο συνθήκη πιθανότητας. Έπρεπε να μειώσεις τον παρανομαστή και όχι τον αριθμητή. Η υπο συνθήκη πιθανότητα είναι πιθανότητα! Γενικά πάλι δεν βγαίνει για κάποιο λόγο :(. Τέσπα, I will just continue my life of the exams...
 - Στο δεύτερο ο μπάμιας είχε λάθος άσκηση
 - Στο τρίτο οκαυ
-- Στο τέταρτο έβαλε παγίδα. Δεν αναγράφεται ούρε στο τυπολόγιο, ούτε στις σημειώσεις. Ε τον μπαγάσα ρε. Να είσαι καλά, να ξαναειδωθούμε.
+- Στο τέταρτο έβαλε παγίδα. Δεν αναγράφεται ούτε στο τυπολόγιο, ούτε στις σημειώσεις. Ε τον μπαγάσα ρε. Να είσαι καλά, να ξαναειδωθούμε.
 - Στο πέμπτο και έκτο θέμα που μας δώθηκε μια ώρα, για κάποιο λόγο με προβλήματισαν πολύ οι πράξεις στην ανίσωση και ήμουν λίγο biased με την χρήση ομοιόμορφης κατανομής και τυχαίων αριθμών και έκανα ένα πολύ λάθος σκεπτικό στην αρχή χάνοντας πολύτιμο χρόνο. Τελικά την βρήκαμε την κατανομή και αντί να την παρατηρήσουμε μήπως είναι καμιά γνωστή, ασυνάισθητα βάλαμε το κεφάλι κάτω και προσπαθούσαμε να κάνουμε χαζομάρες. Αφού γλυκό μου παιδί, βλέπεις ότι είναι εκθετική, το μάτι μου βέβαια αν ήσουν πολύ καλά προετοιμασμένος έπρεπε να το αναγνωρίσει, και στη συνέχεια αντί να υπολογίσω τυπική απόκλιση με άνεση, έκανα κάτι κουφά. Saddd. Μπορείς να δεις το γραπτό μου στον γνωστό φάκελο.
 - Κάτι άλλο που με προβλημάτισε ήταν το γεγονός ότι είναι λίγο δύσκολο να κάνεις το διάγραμμα διασποράς όσον αφορά την κλίμακα...
 
-## Survival guide for the next exam
+# Survival guide for the next exam
 
 - Θυμάσαι τι είχαμε πει σχετικά με το πόσο ανοργάνωτο είναι το υλικό; Τώρα είναι η ώρα που έχουμε λίγο φρέσκια την γνώση, να κάνουμε ένα housekeeping την πληροφορία! Μάλλον μετά την εξεταστική γιατί βαριέμαι και πρέπει να θυσίασω χρόνο για τα υπόλοιπα μαθήματα τα οποία είναι on the way!
 
 Όπως γνωρίζεις το μάθημα χωρίζεται σε δύο βασικές κατηγορίες, πιθανότητες και στατιστική. Η στατιστική συνήθως είναι πιο standard! 
 
 Ας δούμε κάποιες πηγές διαβάσματος:
-### **Probabilities**
+## **Probabilities**
 
 - Τις σημειώσεις μου, τα πρότυπα ασκήσεων και τα λοιπά!
 - Το merged αρχείο που θα ετοιμάσω απο τις διαλέξεις του διδάσκοντα και τις ασκήσεις, σε συνδυασμό με resources απο στοχαστικό, όπως το notes.pdf που μπορείς να το βρείς στον φάκελο του στοχαστικού. Έχει κάποιες ωραίες ασκησούλες σχετικά με πιθανότητες, θεωρήματα και υπο συνθήκη προβλήματα.
@@ -58,14 +59,27 @@ In order to mitigate this, I will edit, merge and do stuff with the uploaded mat
 - Ο κούγιου, υπάρχει και στο τημμυ, έχει κατι λυμένα θέματα απο πολιτικούς. Αξίζει να το δεις, είναι αρκετά καλλογραμμένα.
 - Το υπεργαμάτο [reference stanford](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view). Introduction to probability, Blitzstein Hwang Probability. There is also an official [webiste](https://projects.iq.harvard.edu/stat110/strategic-practice-problems) with solutions and problems.
 
-### **Statistics**
+## **Statistics**
 
 Είσαι υπερκαλλυμένος με το να δεις το statistics_all.pdf και λυμένα θέματα απο αυτό του κουγιουμτζή στους πολιτικούς και το καταραμένο quize, διάστημα εμπιστοσύνης τυπικής απόκλισης! Θα μπορούσες να το σκεφτείς και ο ίδιος βέβαια αλλά που τέτοια. Dont fall on the fallacy of a posteriori judgement. Actually I just discovered on of my biggest weaknesses. **The false judgement due to the fact that you plan with a posteriori results and expectations.**
 
 Υπάρχει γενικά και ένα πολύ καλό cheatsheet σχετικό με τις πιθανότητες και την στατιστική βασισμένο στο πολύ καλό βιβλίο που αναφέραμε προηγουμένως απο standford!
 
-## Technical notes
+## Online tools that you can use
 
+The most useful one is basically R!
+
+- [calculate probability of normal distribution](https://www.wolframalpha.com/input/?i=P%2850%3Cx%3C75%29+x%7EN%2860%2C25%29)
+- [calculate binomial coefficient](https://www.wolframalpha.com/input/?i=P%2850%3Cx%3C75%29+x%7EN%2860%2C25%29)
+- [linear regression](https://www.wolframalpha.com/input/?i=linear+fit+%7B1.3%2C+2.2%7D%2C%7B2.1%2C+5.8%7D%2C%7B3.7%2C+10.2%7D%2C%7B4.2%2C+11.8%7D&lk=3)
+- [general statistics](https://www.wolframalpha.com/input/?i=%7B25%2C+35%2C+10%2C+17%2C+29%2C+14%2C+21%2C+31%7D&lk=3)
+- [the ultimate calculator for linear regression, everything you need for the exams](https://ncalculators.com/statistics/covariance-calculator.htm)
+- [trigonometric identities](http://www.calcfun.com/calc-78-trigonometrikes-taytotites-exisoseis-typologio.html)
+
+# Technical notes
+
+- Κάτι πολύ σημαντικό το οποίο δύσκολα το βρίσκεις σαν τρόπο σκέψης είναι το ακόλουθο: Αξιώματα Kolmogorov και τα λοιπά θεωρήματα με τις τομές, τις ενώσεις και τα λοιπά μπορούν να χρησιμοποιηθούν για να υπολογίσεις πιθανότητες γεγονότων πιο σύνθετων χρησιμοποιώντας ως βάση απλές πιθανότητες με τον κλασσικό ορισμό. Ειδικά στα πειράματα που έχουμε διακριτά, αριθμήσιμα αποτελέσματα τότε αυτά τα πιο σύνθετα ενδεχόμενα κατα πάσα πιθανότητα μπορούν να υπολογιστούν με αρχές απαρίθμησης και με τον κλασσικό ορισμό. Δηλαδή απαρίθμηση και αξιώματα + απλούστερες πιθανότητες πρέπει να είναι ισοδύναμα!
+- Στην χρήση του κλασσικού ορισμού της πιθανότητας, όταν έχουμε υποσυνθήκη, αυτό που αλλάζει είνια ο παρανομαστής και όχι ο αριθμητής. Δηλαδή αν απο 5 μπάλες ξέρω ότι δεν συμβαίνει η μία, τότε για να μην επιλέξω την πρώτη, είναι 3/4 και όχι 3/5. Αυτό συμβαίνει διότι η υπο συνθήκη πιθανότητα είναι και αυτή πιθανότητα και θα στο σύνολο να σου δίνει 1. Εκεί είναι που κάναμε και το λάθος στο πρώτο κουίζ!
 - Στις διακριτές τιμές έχουμε pmf, cdf and pdf. Το pdf έχει dirac. Στις συνεχείς έχουμε μόνο pdf and cdf. 
 - Συνεχείς τυχαίες μεταβλητές και ασυνέχεια απο τα αριστερά. Τότε σε εκείνο το σημείο της ασυνέχειας η πιθανότητα δεν θα είνα μηδέν όπως θα ήταν αν ήταν συνεχής, αλλά θα ισούται με το ύψος της ασυνέχειας. Αυτό το ύψος της ασυνέχειας συμβαίνει στις διακριτές τιμές και μας δίνει την πιθανότητα για κάθε τιμή.
 - Διακριτές -> σειρά, συνεχείς -> ολοκλήρωμα. Προσοχή στον τύπο για την διασπορά στις διακριτές μην τον μπερδέψεις με την εκτίμηση διασποράς στην περιγραφική στατιστική.
@@ -98,20 +112,17 @@ In order to mitigate this, I will edit, merge and do stuff with the uploaded mat
 - Στην γραμμική παλινδρόμηση, statistics by the way is super important for ML, αν θες να εκτιμήσεις μια τιμή με βάση την ευθεία θα πρέπει να βρίσκεται εντός του διαστήματος των δειγμάτων για να είναι έγκυρη η πρόβλεψη.
 - Η συμμεταβλητότητα, covariance μας δείχνει γενικά θετική ή αρνητική εξάρτηση ενώ ο συντελεστής συσχέτισης μας δείχνει και πόσο ισχυρή είναι η εξάρτηση. Για παράδειγμα αν τα δείγματα είναι πολύ σκορπισμένα τότε κατα απόλυτο τιμή το ρ θα είναι κοντά στο μηδέν. Αν θυμίζουν ευθεία θα είναι κοντά στο 1.
 
-## Online tools that you can use
 
-The most useful one is basically R!
 
-- [calculate probability of normal distribution](https://www.wolframalpha.com/input/?i=P%2850%3Cx%3C75%29+x%7EN%2860%2C25%29)
-- [calculate binomial coefficient](https://www.wolframalpha.com/input/?i=P%2850%3Cx%3C75%29+x%7EN%2860%2C25%29)
-- [linear regression](https://www.wolframalpha.com/input/?i=linear+fit+%7B1.3%2C+2.2%7D%2C%7B2.1%2C+5.8%7D%2C%7B3.7%2C+10.2%7D%2C%7B4.2%2C+11.8%7D&lk=3)
-- [general statistics](https://www.wolframalpha.com/input/?i=%7B25%2C+35%2C+10%2C+17%2C+29%2C+14%2C+21%2C+31%7D&lk=3)
-- [the ultimate calculator for linear regression, everything you need for the exams](https://ncalculators.com/statistics/covariance-calculator.htm)
-- [trigonometric identities](http://www.calcfun.com/calc-78-trigonometrikes-taytotites-exisoseis-typologio.html)
-
-## Lessons learned
+# Lessons learned
 
 - Είναι πολύ σημαντικό να βρεις ένα ολοκληρωμένο τυπολογίο για μαθηματικά. Μάλλον του Scaum θα σου λύσει τα χεριά, πολλές φορές προσπαθούσα να υπολογίσω κάτι περίεργα ολοκληρώματα!
 - Fucking stress is the worst...
+
+# TODO
+
+I don't have time eventually to organize all the files, but I have downloaded it them. The big question is how to edit pdfs?
+
+- Use PDFsam and the merge and extract utility. For the extract you choose the pages that you want to show in your pdf. So use okular to view the pages and pdfsam to type the pages you want. PDFsma is straight forward, you won't have a problem understanding how it works, the same applies for the merge utility too.
 
 
